@@ -4,6 +4,7 @@ To address them, participants were asked to memorize the memory item in the WM t
 
 As results, under high WM load condition, the occurrence of attentional capture depended on the observer’s search strategy. This finding is aligned with previous studies, which shows the capture effect is present when adopting parallel search but absent when adopting serial search. In contrast, the singleton distractor failed to capture attention in both search strategies during low WM load task. These results suggest that low WM load enables top-down attentional control, effectively resisting automatic shift of attention to singleton distractors. To conclude, the present finding suggests not only search strategy, but the degree of WM load influences the capture effect encompassing previous inconsistent results of attentional capture. 
 
-![image](https://github.com/user-attachments/assets/2057f75c-c405-43d4-971e-336e33ef0777)
+![image](https://github.com/user-attachments/assets/64f2f410-a9ce-4110-a7a5-d6611940765c)
+
 
 
